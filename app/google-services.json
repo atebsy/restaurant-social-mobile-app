@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280064877877",
+    "project_id": "github-portofolio",
+    "storage_bucket": "github-portofolio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280064877877:android:7a584ccc10f6566abb187c",
+        "android_client_info": {
+          "package_name": "com.atebsydev.restaurantssocialmobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280064877877-3m82r0vhgrd6otj99qrs62vl3uhvjq1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB_uMKkSfcDXdlKCYgH_1DLasdcehjFK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280064877877-3m82r0vhgrd6otj99qrs62vl3uhvjq1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
